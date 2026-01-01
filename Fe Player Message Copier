@@ -29,6 +29,10 @@ local badWords = {
     "Racist",
     "Dumb",
     "Shit",
+    "Kick",
+    "Fat",
+    "Kiss",
+    "Gyat",
 }
 
 local cooldown = false
